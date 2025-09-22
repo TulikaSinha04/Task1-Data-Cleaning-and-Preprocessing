@@ -3,8 +3,11 @@ Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
 
 # Work to be done 
  Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
+ 
  Tools: Excel / Python (Pandas)
+ 
  Deliverables: Cleaned dataset + short summary of changes
+ 
  Hints / Mini Guide:
  Identify and handle missing values using .isnull() in Python or filters in Excel.
  Remove duplicate rows using .drop_duplicates() or Excel’s “Remove Duplicates”.
