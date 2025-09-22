@@ -15,3 +15,6 @@ Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
  Convert date formats to a consistent type (e.g., dd-mm-yyyy).
  Rename column headers to be clean and uniform (e.g., lowercase, no spaces).
  Check and fix data types (e.g., age should be int, date as datetime).
+
+ # Original dataset : sales_data.csv
+ # Clean dataset : sales_data_sample.csv
